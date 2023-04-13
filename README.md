@@ -1,4 +1,13 @@
+# Jeongmo's WorkSpace
+
+email : jeremy0410@hanmail.net  
+Notion : [IMAGO_LAB](https://debonair-diagram-1c3.notion.site/IMAGO-LAB-fe9b427453b041dc83db36ccb704e868)
+
+Activity
+
 ### Hi there 👋
+
+
 
 <!--
 **JeongmoRyu/JeongmoRYU** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
