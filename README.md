@@ -1,21 +1,5 @@
-# Jeongmo's WorkSpace
+![header](https://capsule-render.vercel.app/api?&type=rect&text=%20Jeong%20Mo%20&fontColor=8b7e74&height=200&fontAlign=40&fontSize=50&textBg=true&animation=twinkling&desc='Work'Space&descAlign=68&descSize=30&color=0:3eb489,100:f9cf95)
 
-![header](https://capsule-render.vercel.app/api?type=rect&color=3eb489&height=60&section=header&text=J%20e%20o%20n%20M%20o&fontSize=50&animation=twinkling&desc=Workspace&textBg=true)
-
-![header](https://capsule-render.vercel.app/api?height=400&text=Hello%20World!&desc=Hello%20capsule%20render)
-
-![header](https://capsule-render.vercel.app/api?type=rect&height=100&color=3eb489&text=%20JeongMo%20&fontColor=f5e29f&height=300&fontSize=50&textBg=true&animation=twinkling&desc=어쩌구&descAlign=70&descSize=30)
-
-
-![header](https://capsule-render.vercel.app/api?text=Hello%World!&fontAlignY=20)
-
-
-![reversal](https://capsule-render.vercel.app/api?type=rect&text=JeongMo&textBg=true&animation=twinkling&fontAlign=30&fontSize=50&desc=Use%20theme&descAlign=60&descAlignY=50)
-
-email : jeremy0410@hanmail.net  
-Notion : [IMAGO_LAB](https://debonair-diagram-1c3.notion.site/IMAGO-LAB-fe9b427453b041dc83db36ccb704e868)
-
-Activity
 
 ### Hi there 👋
 
