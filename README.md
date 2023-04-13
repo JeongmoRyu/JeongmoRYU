@@ -1,7 +1,8 @@
 # Jeongmo's WorkSpace
 
-![header](https://capsule-render.vercel.app/api?type=rect&color=3eb489&height=200&section=header&text=capsule%20render&fontSize=90&animation=scaleIn)
+![header](https://capsule-render.vercel.app/api?type=rect&color=3eb489&height=200&section=header&text=capsule%20render&fontSize=90&animation=twinkling&fontColor=f5e29f)
 
+![header](https://capsule-render.vercel.app/api?type=rounded&color=3eb489&text=%20JeongMo%20&height=300&fontSize=100&textBg=f5e29f&animation=twinkling)
 
 email : jeremy0410@hanmail.net  
 Notion : [IMAGO_LAB](https://debonair-diagram-1c3.notion.site/IMAGO-LAB-fe9b427453b041dc83db36ccb704e868)
