@@ -1,5 +1,8 @@
 # Jeongmo's WorkSpace
 
+![header](https://capsule-render.vercel.app/api?type=rect&color=3eb489&height=200&section=header&text=capsule%20render&fontSize=90&animation=scaleIn)
+
+
 email : jeremy0410@hanmail.net  
 Notion : [IMAGO_LAB](https://debonair-diagram-1c3.notion.site/IMAGO-LAB-fe9b427453b041dc83db36ccb704e868)
 
@@ -23,3 +26,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<a href="링크 주소입력하삼" target="_blank"><img src="https://img.shields.io/badge/뱃지레이블-f5e29f?style=flat&logo=bookstack&logoColor=0e2e2a"/></a>
