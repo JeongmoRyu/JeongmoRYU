@@ -15,11 +15,15 @@
 
 
 
-![header](https://capsule-render.vercel.app/api?&type=rect&text=S%20k%20i%20l%20l%20s%20&fontColor=f9cf95&height=50&fontAlign=40&fontSize=30&animation=twinkling&desc=(¬‿¬)✨🏆&descAlign=68&descSize=20&color=0:8fb1b1,100:3c4c3d)
+<!-- ![header](https://capsule-render.vercel.app/api?&type=rect&text=S%20k%20i%20l%20l%20s%20&fontColor=f9cf95&height=50&fontAlign=40&fontSize=30&animation=twinkling&desc=(¬‿¬)✨🏆&descAlign=68&descSize=20&color=0:8fb1b1,100:3c4c3d) -->
+<br/>
 
+### MY Skills (¬‿¬)✨🏆
+<br/>
 
 >  ### 🧠 Platforms & Languages
 > >![Python](https://img.shields.io/badge/Python-f9cf95.svg?&style=for-the-badge&logo=Python&logoColor=white)
+> >![JavaScript](https://img.shields.io/badge/JavaScript-ebf5b3.svg?&style=for-the-badge&logo=JavaScript&logoColor=white)
 > >![Markdown](https://img.shields.io/badge/Markdown-ffb752.svg?&style=for-the-badge&logo=Markdown&logoColor=white)
 > >![HTML5](https://img.shields.io/badge/HTML5-dc8965.svg?&style=for-the-badge&logo=HTML5&logoColor=white)
 > >![CSS3](https://img.shields.io/badge/CSS3-c17f5e.svg?&style=for-the-badge&logo=CSS3&logoColor=white)
@@ -32,6 +36,6 @@
 > >![Git](https://img.shields.io/badge/Git-1e453e.svg?&style=for-the-badge&logo=Git&logoColor=white)
 >
 > ### 📬 Contacts 
-> >[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jeremy0410@hanmail.net)](mailto:jeremy0410@hanmail.net)
+> >[![Gmail Badge](https://img.shields.io/badge/Mail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jeremy0410@hanmail.net)](mailto:jeremy0410@hanmail.net)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JeongmoRYU&theme=gruvbox&show_icons=true)
