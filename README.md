@@ -28,6 +28,8 @@
 > >![HTML5](https://img.shields.io/badge/HTML5-dc8965.svg?&style=for-the-badge&logo=HTML5&logoColor=white)
 > >![CSS3](https://img.shields.io/badge/CSS3-c17f5e.svg?&style=for-the-badge&logo=CSS3&logoColor=white)
 > >![MySQL](https://img.shields.io/badge/MySQL-8b7e74.svg?&style=for-the-badge&logo=MySQL&logoColor=white)
+> >![Vue](https://img.shields.io/badge/vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white) 
+
 > 
 > 
 > ### 🛠 Workspace tools
