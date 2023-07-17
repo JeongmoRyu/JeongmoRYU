@@ -40,3 +40,4 @@
 > ### 📬 Contacts 
 > >[![Gmail Badge](https://img.shields.io/badge/Mail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jeremy0410@hanmail.net)](mailto:jeremy0410@hanmail.net)
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JeongmoRYU&theme=gruvbox&show_icons=true)
