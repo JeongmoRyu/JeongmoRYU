@@ -1,17 +1,40 @@
 ![header](https://capsule-render.vercel.app/api?&type=rect&text=%20Jeong%20Mo's%20&fontColor=f9cf95&height=200&fontAlign=40&fontSize=50&animation=twinkling&desc=Space&descAlign=68&descSize=30&color=0:8b7e74,100:3c4c3d)
 
 
-### Hi there 👋
+## Hi there 👋
 
-- 🔭 I’m currently working on ... 
-- 🌱 I’m currently learning Algorithm...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
+- 🔭 I’m currently working on LLM, RAG AI Chatbot Platform
+- 🌱 I’m currently learning AI Services
+- 👯 I’m looking to collaborate on SW Tech
+
+## 🚀 Experience
+
+### 🏰 MAUM AI  
+**LLM Talent**  
+*2024.01 ~ Present*
+
+### 🏰 SSAFY  
+**Samsung SW Academy For Youth**  
+*2023.01 ~ Present*
+
+> **🏆 SSAFY 특화프로젝트 우수상 (1등) 입상**  
+> *편식 - 빅데이터 분산 및 추천 알고리즘을 활용한 편의점 어플리케이션 제작 프로젝트*  
+> *(2023.08.28 - 2023.10.06)*
+
+> **🏆 SSAFY 자율프로젝트 우수상 (2등) 입상**  
+> *불편용사 - Unity 게임 제작 프로젝트*  
+> *(2023.10.09 - 2023.11.20)*
+
+### 🏢 행정안전부 NIA  
+**공공데이터 인턴**  
+*2021.09 ~ 2021.12*
+
+<!-- - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
-- ✨ _special_ ✨
+- ✨ _special_ ✨ -->
 
 
 
